@@ -12,5 +12,7 @@ int main() {
 	int b = 20;
 	printf("Sum is %d", a + b);
 
+	// Please add subtraction example
+
 	return 0;
 }
