@@ -4,7 +4,7 @@ int main() {
 	// Metal Added Comment
 	printf("Hello Metal");
 
-	// should add comment for code
+	// Comment added by Wooden
 	printf("Hello Wooden");
 	return 0;
 }
