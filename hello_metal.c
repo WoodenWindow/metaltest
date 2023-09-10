@@ -6,5 +6,7 @@ int main() {
 
 	// Comment added by Wooden
 	printf("Hello Wooden");
+
+	// please add arithmetic addition example
 	return 0;
 }
