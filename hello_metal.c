@@ -7,6 +7,10 @@ int main() {
 	// Comment added by Wooden
 	printf("Hello Wooden");
 
-	// please add arithmetic addition example
+	// Added addition example
+	int a = 10;
+	int b = 20;
+	printf("Sum is %d", a + b);
+
 	return 0;
 }
