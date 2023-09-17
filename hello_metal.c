@@ -22,5 +22,10 @@ int main() {
 	int f = 50;
 	printf("Multiplication is %d", e * f);
 
+	// Added division example
+	int g = 20;
+	int h = 10;
+	printf("Division is %d", g / h);
+
 	return 0;
 }
