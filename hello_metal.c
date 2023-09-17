@@ -17,7 +17,10 @@ int main() {
 	int d = 30;
 	printf("Minus is %d", d - c);
 
-	// Please add multiplication example
+	// Added multiplication example
+	int e = 40;
+	int f = 50;
+	printf("Multiplication is %d", e * f);
 
 	return 0;
 }
