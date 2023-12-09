@@ -3,8 +3,6 @@
 using namespace std;
 
 int main() {
-    cout << "Hello World" << endl;
-
     int a = 10, b = 20;
     cout << "Sum is = " << a + b << endl;
     string s = "hello";
