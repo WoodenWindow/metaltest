@@ -12,7 +12,10 @@ int main() {
     cout << "Multiplication is " << c * d << endl;
 
     int e = 10, f = 2;
-    cout << "Division is: " << e/f << endl;
+    cout << "Division is: " << e / f << endl;
+
+    int g = 10, h = 2;
+    cout << "Mod value is: " << g % h << endl;
 
     return 0;
 }
