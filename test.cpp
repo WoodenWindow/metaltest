@@ -8,6 +8,9 @@ int main() {
     string s = "hello";
     cout << "String is: " << s << endl;
 
+    int i = 10, j = 5;
+    cout << "Subtraction is " << i - j << end;
+
     int c = 10, d = 20;
     cout << "Multiplication is " << c * d << endl;
 
